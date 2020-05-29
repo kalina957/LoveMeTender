@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColorSecondary">#fff</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="KalinaTheme">
+        <!-- Customize your theme here. -->
+        <item name="android:textColorSecondary">#fff</item>
+        <item name="android:textColorHint">#999</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">#000</item>
+    </style>
+</resources>

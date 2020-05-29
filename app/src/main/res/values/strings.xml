@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoftUni_RecyclerView</string>
+    <string name="kalinaApp">KalinaApp</string>
+    <string name="kalinaapp">KalinaApp</string>
+    <string name="search">Search</string>
+    <string name="send">Send</string>
+    <string name="hi_job">Hello Job!</string>
+    <string name="this_is_my_project">This is my project</string>
+</resources>
